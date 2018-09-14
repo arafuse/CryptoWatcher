@@ -1,0 +1,6 @@
+aiohttp==2.3.7
+pygal==2.4.0
+CairoSVG==2.0.3
+tinycss==0.4
+cssselect==1.0.1
+numpy==1.14.2
