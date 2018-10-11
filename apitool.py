@@ -242,7 +242,7 @@ async def _download_tick_data(loop: asyncio.AbstractEventLoop, client: api.Clien
         ticks_per_pair = (end_time - start_time) / config['tick_interval_secs']
         calls_per_pair = ticks_per_pair / 500
         pairs_per_min = 1200 / calls_per_pair
-        rate_limit_secs = 60 / pairs_per_min
+        rate_limit_secs = 120 / pairs_per_min
     else:
         rate_limit_secs = config['api_initial_rate_limit_secs']
 
