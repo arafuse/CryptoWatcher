@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Copyright (c) 2017 Adam M. Rafuse - All Rights Reserved
-# Unauthorized copying of this file, via any medium is strictly prohibited
-# Proprietary and confidential
-
 """
 Tool for performing various operations with the crypto exchange API.
 """
