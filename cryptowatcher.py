@@ -1,13 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Copyright (c) A 2017 Adam M. Rafuse - All Rights Reserved
-# Unauthorized copying of this file, via any medium is strictly prohibited
-# Proprietary and confidential
-
 """
-Watch charts. Make trades. Get money.
-
 TODO: *** General ***
 TODO: Use type aliases from the 'typing' module (in progress).
 TODO: Move to Cython (pxd) for speedups (eg. math functions).
