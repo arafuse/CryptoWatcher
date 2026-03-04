@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Copyright (c) A 2017 Adam M. Rafuse - All Rights Reserved
-# Unauthorized copying of this file, via any medium is strictly prohibited
-# Proprietary and confidential
-
 """
 Reporter service.
 """
